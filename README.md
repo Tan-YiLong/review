@@ -1,6 +1,6 @@
 # review
 <div  align="center"> 
-  <img src="fig/dataset_tree.jpg" width=100% />
+  <img src="fig/dataset_trees.jpg" width=100% />
 </div>
 
 ### Popular Benchmark Data
