@@ -1,6 +1,6 @@
 # review
 <div  align="center"> 
-  <img src="假新闻数据集树状图.jpg" width=100% />
+  <img src="fig/dataset_tree.jpg" width=100% />
 </div>
 
 ### Popular Benchmark Data
