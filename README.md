@@ -1,4 +1,7 @@
 # review
+<div  align="center"> 
+  <img src="https://github.com/yuntaoshou/Graph-Diffusion-Models-A-Comprehensive-Survey-of-Methods-and-Applications/blob/main/fig/diffusionshuoming.png" width=100% />
+</div>
 ### Popular Benchmark Data
 | Dataset | Year | Link | Methods | Year | Link|
 | :----: | :----: | :----: | :----: | :----: | :----: |
