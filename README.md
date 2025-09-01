@@ -15,4 +15,5 @@
 | COSMOS | 2021 | [[Link]](https://shivangi-aneja.github.io/projects/cosmos/) |  CHECKED | 2021 | [[Link]](https://github.com/cyang03/CHECKED/tree/master/dataset) |
 | Weibo21 | 2021| [[2021]](https://github.com/kennqiang/MDFEND-Weibo21) | CHEF | 2022 | [[Link]](https://github.com/THU-BPM/CHEF?tab=readme-ov-file) |
 | LTCR | 2023 | [[Link]](https://github.com/Enderfga/DoubleCheck/blob/main/data/LTCR.csv) | DGM4 | 2023 | [[Link]](https://huggingface.co/datasets/rshaojimmy/DGM4) |
-| MiRAGeNews | 2024 | [[Link]](https://huggingface.co/datasets/anson-huang/mirage-news) | - | - | - |
+| MiRAGeNews | 2024 | [[Link]](https://huggingface.co/datasets/anson-huang/mirage-news) | MMFakeBench | 2025 | [[Link]](https://huggingface.co/datasets/liuxuannan/MMFakeBench) |
+| MFND | 2025 | [[Link]](https://github.com/yunan-wang33/sdml) | - | - | - |
