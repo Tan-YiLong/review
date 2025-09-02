@@ -14,6 +14,6 @@
 | CoAID | 2020 | [[Link]](https://github.com/cuilimeng/CoAID) | NewsCLIPpings | 2021 | [[Link]](https://github.com/g-luo/news_clippings?tab=readme-ov-file) |
 | COSMOS | 2021 | [[Link]](https://shivangi-aneja.github.io/projects/cosmos/) |  CHECKED | 2021 | [[Link]](https://github.com/cyang03/CHECKED/tree/master/dataset) |
 | Weibo21 | 2021| [[2021]](https://github.com/kennqiang/MDFEND-Weibo21) | CHEF | 2022 | [[Link]](https://github.com/THU-BPM/CHEF?tab=readme-ov-file) |
-| DGM$^{4}$ | 2023 | [[Link]](https://huggingface.co/datasets/rshaojimmy/DGM4) | MiRAGeNews | 2024 | [[Link]](https://huggingface.co/datasets/anson-huang/mirage-news) |
-| M$^{3}$A | 2024 | [[Link]](https://github.com/FinalYou/M3A?tab=readme-ov-file) | MMFakeBench | 2025 | [[Link]](https://huggingface.co/datasets/liuxuannan/MMFakeBench) |
-| MFND | 2025 | [[Link]](https://github.com/yunan-wang33/sdml) | MDAM$^{3}$-DB | 2025 | - |
+| DGM<sup>4</sup> | 2023 | [[Link]](https://huggingface.co/datasets/rshaojimmy/DGM4) | MiRAGeNews | 2024 | [[Link]](https://huggingface.co/datasets/anson-huang/mirage-news) |
+| M<sup>3</sup>A | 2024 | [[Link]](https://github.com/FinalYou/M3A?tab=readme-ov-file) | MMFakeBench | 2025 | [[Link]](https://huggingface.co/datasets/liuxuannan/MMFakeBench) |
+| MFND | 2025 | [[Link]](https://github.com/yunan-wang33/sdml) | MDAM<sup>3</sup>-DB | 2025 | - |
